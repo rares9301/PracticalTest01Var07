@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticalTest01Var07</string>
+    <string name="secondary_title">PracticalTest01Var07 Secondary</string>
+    <string name="field1">Field 1</string>
+    <string name="field2">Field 2</string>
+    <string name="field3">Field 3</string>
+    <string name="field4">Field 4</string>
+    <string name="set">Set</string>
+    <string name="random">Random</string>
+    <string name="sum">Sum</string>
+    <string name="product">Product</string>
+    <string name="fields_not_numeric">All four fields must contain numbers (press Random first)</string>
+</resources>
